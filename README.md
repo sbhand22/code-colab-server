@@ -73,7 +73,6 @@ PORT=<your port>
 To start the backend server, run the following command:
 
 ```bash
-Copy code
 npm run dev
 
 ```
